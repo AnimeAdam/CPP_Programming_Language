@@ -1,3 +1,4 @@
+#pragma once
 // Vector.cpp:
 #include <iostream>
 #include "Vector.h" // get the interface

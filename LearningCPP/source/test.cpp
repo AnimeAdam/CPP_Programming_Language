@@ -1,3 +1,5 @@
+#pragma once
+
 #include <iostream>
 #include <vector>
 #include <list>
@@ -51,8 +53,8 @@ MyClass2::~MyClass2()
 {
 }
 
-
-int main()
+//Test file for custom classes
+int testMain()
 {
 	int y(0);
 
@@ -64,4 +66,6 @@ int main()
 	cout << w.i;
 
 	cin >> y; //just to stop at the command window
+
+	return 0;
 }
