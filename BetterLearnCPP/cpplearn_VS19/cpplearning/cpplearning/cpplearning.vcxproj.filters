@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Chapter2">
+      <UniqueIdentifier>{19aedea0-5f4b-4a15-9acf-b084fc107801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter3">
+      <UniqueIdentifier>{27c0a67b-acad-4f29-bd12-a0fdf245ec22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter4">
+      <UniqueIdentifier>{1784af6d-669c-4793-ad8a-bb5716c09e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter5">
+      <UniqueIdentifier>{34138e4d-b1e9-4e98-bc9b-b8564bb40017}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter6">
+      <UniqueIdentifier>{2d8d5803-8f19-486a-9b49-64ccbcfc14e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter7">
+      <UniqueIdentifier>{40f1a7ab-35f1-4a18-b128-b1dc1159a78e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter8">
+      <UniqueIdentifier>{b6e1abb0-a5c6-442d-8d14-d452d95d4940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter13">
+      <UniqueIdentifier>{d9086dd6-408c-4bc2-a092-838e916a42bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ChapterClasses">
+      <UniqueIdentifier>{e8bb0493-7647-4b36-9162-b61cde5ce73f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\cpplearn\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\IncludesAll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter2\SimpleVector.h">
+      <Filter>Header Files\Chapter2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter3\AbstractContainer.h">
+      <Filter>Header Files\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter3\BetterVector.h">
+      <Filter>Header Files\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter3\CopyingAndMoving.h">
+      <Filter>Header Files\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter3\OperatorOverloading.h">
+      <Filter>Header Files\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter3\Templates.h">
+      <Filter>Header Files\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter4\Strings.h">
+      <Filter>Header Files\Chapter4</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter4\IOstream.h">
+      <Filter>Header Files\Chapter4</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter4\Containers.h">
+      <Filter>Header Files\Chapter4</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter5\ResourceManagement.h">
+      <Filter>Header Files\Chapter5</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter5\Task_Threads.h">
+      <Filter>Header Files\Chapter5</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter5\SmallUtilityComponents.h">
+      <Filter>Header Files\Chapter5</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter6\Types.h">
+      <Filter>Header Files\Chapter6</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter7\Pointers.h">
+      <Filter>Header Files\Chapter7</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter8\Structures.h">
+      <Filter>Header Files\Chapter8</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter8\Unions.h">
+      <Filter>Header Files\Chapter8</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter8\Enums.h">
+      <Filter>Header Files\Chapter8</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cpplearn\Headers\Chapter13\ErrorHandling.h">
+      <Filter>Header Files\Chapter13</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

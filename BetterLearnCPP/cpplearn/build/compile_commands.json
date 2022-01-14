@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/WorkDeps/GitHub/cpplearn/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-W\\mingw32\\bin\\I686-W~2.EXE   -I../../../mingw-std-threads  -g   -std=gnu++17 -o CMakeFiles\\cpplearn.dir\\main.cpp.obj -c C:\\WorkDeps\\GitHub\\cpplearn\\main.cpp",
+  "file": "C:/WorkDeps/GitHub/cpplearn/main.cpp"
+}
+]
